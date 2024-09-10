@@ -4,7 +4,8 @@
 
 - Coffee
 - Ice
-- Milk (whole milk or vegan milk) 
+- Milk (whole milk or vegan milk)
+- Sugar/syrup
 
 
 ## Instructions
@@ -13,3 +14,5 @@
 - Pour room temperature (or chilled) coffee into the glass
 - Pour in the milk
 - Mix it
+- Add sugar or syrup
+- Mix it again

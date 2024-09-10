@@ -4,7 +4,7 @@
 
 - Coffee
 - Ice
-- Milk
+- Milk (whole milk or vegan milk) 
 
 
 ## Instructions

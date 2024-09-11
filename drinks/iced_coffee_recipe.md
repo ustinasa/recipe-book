@@ -2,8 +2,11 @@
 
 ## Ingredients
 
-- Coffee
-- Ice
+- Coffee:
+    - Instant coffee
+    or
+    - Espresso from coffee machine
+- Ice cubes
 - Milk (whole milk or vegan milk)
 - Sugar/syrup
 
